@@ -1,0 +1,11 @@
+"HighSchool" "UWT" 2
+"UWT" "Costco" 5
+"Walmart" "Mall" 12
+"Museum" "Casino" 9
+"Downtown" "Mall" 6
+"Downtown" "Costco" 7
+"Downtown" "Church" 3
+"HighSchool" "Downtown" 1
+"HighSchool" "Walmart" 8
+"Museum" "Port" 4
+"CarDealer" "UWT" 10
